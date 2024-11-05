@@ -930,6 +930,10 @@ video {
     padding-top: 92px;
   }
 
+  .laptop\:pt-\[68px\] {
+    padding-top: 68px;
+  }
+
   .laptop\:text-\[40px\] {
     font-size: 40px;
   }
